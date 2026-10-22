@@ -1,0 +1,126 @@
+{
+  "formatVersion": 1,
+  "product": "@mediafranca/pictos-api-schema",
+  "version": "1.0.0",
+  "mode": "committed",
+  "source": {
+    "repository": "https://github.com/hspencer/pictos-net",
+    "commit": "f0f9fd8a6d02bf64c3b7a35750746471fb801afb",
+    "path": "schemas/pictos-api-schema",
+    "dirty": false
+  },
+  "contentHash": "64b0f0fe1a9768962e12c9e9b05bd60d645c12e6c35a967405f50c5f72ef8a98",
+  "files": [
+    {
+      "path": "LICENSE",
+      "sha256": "b104ba20d51a980a97004f3c0665637cbe8b566964b19db8e1960140114ef32e",
+      "size": 771,
+      "executable": false
+    },
+    {
+      "path": "README.md",
+      "sha256": "89f8f0338f1dd83230d21d857188135ca48d4bcbc117c3b0119d484971227c1a",
+      "size": 1652,
+      "executable": false
+    },
+    {
+      "path": "examples/componer.request.json",
+      "sha256": "9fbc45c111e88c4ecc00c56028e5407d7722a50e23d6bb315673188dc524adca",
+      "size": 1020,
+      "executable": false
+    },
+    {
+      "path": "examples/componer.response.json",
+      "sha256": "a80d0a5efba97df05d4c29c0f6804e8da461b9bead60cb3eb32f2401b2417693",
+      "size": 1757,
+      "executable": false
+    },
+    {
+      "path": "examples/comprender.request.json",
+      "sha256": "97827d9123408ed132b43a8024314e4b2a589292b55c61fd531b88ac2f4f05a5",
+      "size": 153,
+      "executable": false
+    },
+    {
+      "path": "examples/comprender.response.json",
+      "sha256": "5920f6798a13fe44953cc6e087a7e2618b3d7018ed5a676a31cd2d6a96b6c964",
+      "size": 2035,
+      "executable": false
+    },
+    {
+      "path": "examples/error.output-contract-invalid.json",
+      "sha256": "698219235f8cb9c8ffbb1e55f5217995bc99f107e145d0a317d904b6b015db8d",
+      "size": 488,
+      "executable": false
+    },
+    {
+      "path": "examples/estructurar.output.json",
+      "sha256": "3988b8b8fc3ad7e590659f85163e6a1aecd9a93819bccf7294b02a6665f32f67",
+      "size": 1236,
+      "executable": false
+    },
+    {
+      "path": "examples/producir.output.bitmap.json",
+      "sha256": "cd510a77bc7ef71a6b35cb66edd0d3d11473ad0a5da19313dc7869dbbc8f435a",
+      "size": 165,
+      "executable": false
+    },
+    {
+      "path": "examples/producir.output.svg.json",
+      "sha256": "945dc9dcc1a341e80881ecbda5835a6019512127744c2af208c1344960d4dc78",
+      "size": 172,
+      "executable": false
+    },
+    {
+      "path": "package.json",
+      "sha256": "c1c9cceb6a681d0d0c42da34cfc4d79f66f5fbfaa90dca4e1ac0f0f5c56fcb05",
+      "size": 414,
+      "executable": false
+    },
+    {
+      "path": "pictos-api-common-1.0.0.schema.json",
+      "sha256": "e10ebd16a7be5decbe6e22f36dfe47d18e458c2be78ab3fd2625e7b593b0b7c0",
+      "size": 6419,
+      "executable": false
+    },
+    {
+      "path": "pictos-api-componer-request-1.0.0.schema.json",
+      "sha256": "2192f7d7bb86449bba4d0689c1329b9f6c7027f54ec493de98ff609bc4a18339",
+      "size": 1391,
+      "executable": false
+    },
+    {
+      "path": "pictos-api-componer-response-1.0.0.schema.json",
+      "sha256": "f1c8dad9d6f647eec132e5f2dc79c5c8a0a3c6bed7980fb276e810a5abbc35b5",
+      "size": 1168,
+      "executable": false
+    },
+    {
+      "path": "pictos-api-comprender-request-1.0.0.schema.json",
+      "sha256": "c58865f0fd7eecd2301f78298888c206b3c6999bf4d3a21259fb70a6a540e6d1",
+      "size": 2011,
+      "executable": false
+    },
+    {
+      "path": "pictos-api-comprender-response-1.0.0.schema.json",
+      "sha256": "b7b9bfa23e87091d142a05d2cdff03f04b61c58728517fa67f8966aec827c45b",
+      "size": 1061,
+      "executable": false
+    },
+    {
+      "path": "pictos-api-estructurar-0.1.0-draft.schema.json",
+      "sha256": "4aaa6ed44cd064c27d7476a78fc0acacf7b054c6c5ae8a6b869ac9418a0dfc8c",
+      "size": 5423,
+      "executable": false
+    },
+    {
+      "path": "pictos-api-producir-0.1.0-draft.schema.json",
+      "sha256": "1d03faacdd0d3f3cbe5418d142a6543b288bfa66f8bf8217984d05cc2dfa338d",
+      "size": 3371,
+      "executable": false
+    }
+  ],
+  "validation": "not-run",
+  "release": false,
+  "publication": "requires-separate-approval"
+}
