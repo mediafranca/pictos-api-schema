@@ -5,11 +5,11 @@
   "mode": "committed",
   "source": {
     "repository": "https://github.com/hspencer/pictos-net",
-    "commit": "f0f9fd8a6d02bf64c3b7a35750746471fb801afb",
+    "commit": "3945e2a45dc3e9cd93f23038a968b7d3cd55ec77",
     "path": "schemas/pictos-api-schema",
     "dirty": false
   },
-  "contentHash": "64b0f0fe1a9768962e12c9e9b05bd60d645c12e6c35a967405f50c5f72ef8a98",
+  "contentHash": "587827d3a848fd27d77324f272404c49bb03461513908ced6432fbd56e30c213",
   "files": [
     {
       "path": "LICENSE",
@@ -19,8 +19,8 @@
     },
     {
       "path": "README.md",
-      "sha256": "89f8f0338f1dd83230d21d857188135ca48d4bcbc117c3b0119d484971227c1a",
-      "size": 1652,
+      "sha256": "f5e3a594033c93ee2430f52c0aeb804c51c57ff443e9ce7536352299f94122b7",
+      "size": 2097,
       "executable": false
     },
     {
@@ -73,8 +73,8 @@
     },
     {
       "path": "package.json",
-      "sha256": "c1c9cceb6a681d0d0c42da34cfc4d79f66f5fbfaa90dca4e1ac0f0f5c56fcb05",
-      "size": 414,
+      "sha256": "781944819c78b07f1f00d7dcd83e3fbecb3783792dc30dd47b7f9d6e90f4320a",
+      "size": 413,
       "executable": false
     },
     {
